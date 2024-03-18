@@ -11,8 +11,8 @@ import { en, es, id, ar, pt, fr, hi } from "./lib/idiomas/total-idiomas.js"
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰  
 
 global.owner = [
-["51955095498", 'Richetti', true], //Richetti
-["51933348947"], 
+["56941827124", 'Richetti', true], //Richetti
+["51966254634"], 
 ["56945086055"], 
 ["56945086055"], 
 ["56945086055"],
